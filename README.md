@@ -1,2 +1,2 @@
 # BUDGiT
-Original iOS app for budgeting with Parse
+iOS app for budgeting in Swift with Parse
